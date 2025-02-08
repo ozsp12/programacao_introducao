@@ -2,27 +2,78 @@
 
 Bem-vindo ao repositório do **Curso de Programação com Python**! Este repositório contém Jupyter Notebooks que abordam desde conceitos básicos até tópicos mais avançados da linguagem Python. O objetivo é fornecer um material de apoio para iniciantes e também para aqueles que desejam reforçar seus conhecimentos em programação.
 
-## 📂 Estrutura do Repositório
-Os notebooks estão organizados de forma sequencial para facilitar o aprendizado:
+# Ementa do Curso: Algoritmos e Programação Básica
 
-1. **01_intro_sintaxe_python.ipynb** - Introdução à sintaxe básica do Python.
-2. **02_intro_logica_operacoes_matematicas.ipynb** - Lógica de programação e operações matemáticas.
-3. **03_tipos_variaveis.ipynb** - Tipos de variáveis e manipulação de dados.
-4. **04_condicionais_if_else.ipynb** - Estruturas condicionais (`if`, `else`, `elif`).
-5. **05_loops_for_while.ipynb** - Estruturas de repetição (`for`, `while`).
-6. **06_funcoes.ipynb** - Definição e uso de funções em Python.
-7. **07_recursao.ipynb** - Conceitos de recursão e exemplos práticos.
-8. **08_python_lambdas.ipynb** - Uso de funções anônimas (`lambda`).
-9. **09_funcoes_aninhadas.ipynb** - Funções dentro de funções (aninhadas).
+## 1. Introdução à Programação e Algoritmos
+- Conceito de algoritmo e sua importância  
+- Representação de algoritmos (fluxogramas, pseudocódigo)  
+- Linguagens de programação e compiladores  
 
-## 🎯 Objetivo do Curso
+## 2. Fundamentos da Lógica de Programação
+- Tipos de dados e variáveis  
+- Operadores aritméticos, relacionais e lógicos  
+- Estruturas básicas: entrada, processamento e saída  
+
+## 3. Estruturas de Controle de Fluxo
+- Condicionais: `if`, `else`, `elif`  
+- Estruturas de repetição: `while`, `for`  
+- Controle de loops: `break`, `continue`  
+
+## 4. Estruturas de Dados Básicas
+- Listas e vetores  
+- Matrizes e manipulação de tabelas  
+- Strings e manipulação de textos  
+
+## 5. Funções e Modularização
+- Definição e chamada de funções  
+- Argumentos e retorno de valores  
+- Escopo de variáveis e boas práticas  
+
+## 6. Introdução a Estruturas de Dados Avançadas
+- Dicionários e conjuntos  
+- Pilhas e filas  
+- Noções básicas sobre árvores e grafos  
+
+## 7. Manipulação de Arquivos
+- Leitura e escrita de arquivos  
+- Manipulação de dados em arquivos CSV e JSON  
+
+## 8. Introdução à Programação Orientada a Objetos (POO)
+- Conceitos de classe e objeto  
+- Atributos e métodos  
+- Encapsulamento e herança  
+
+## 9. Noções de Algoritmos e Complexidade
+- Eficiência dos algoritmos  
+- Noções básicas de complexidade (`O(n)`, `O(log n)`)  
+- Algoritmos clássicos (busca e ordenação)  
+
+## 10. Projeto Prático
+- Desenvolvimento de um pequeno projeto aplicando os conceitos aprendidos  
+- Boas práticas de programação  
+- Depuração e testes básicos  
+
+## Metodologia
+- Aulas teóricas e práticas  
+- Exercícios e desafios de programação  
+- Estudos de caso e resolução de problemas  
+
+## Público-alvo
+Iniciantes na programação que desejam aprender lógica e algoritmos de maneira estruturada, seja para aplicações acadêmicas, profissionais ou pessoais.  
+
+## Pré-requisitos
+Nenhum conhecimento prévio em programação é necessário. Apenas noções básicas de matemática são recomendadas.
+
+
+
+# 🎯 Objetivo do Curso
 Este curso tem como foco:
 - Introduzir a linguagem Python de forma prática e objetiva.
 - Ensinar conceitos fundamentais de programação.
 - Demonstrar boas práticas de código e estruturação.
 - Oferecer exercícios para fixação do conteúdo.
 
-## 🛠️ Requisitos
+# 🛠️ Requisitos
 Para executar os notebooks, você precisará ter instalado:
 - [Python 3.x](https://www.python.org/downloads/)
 - [Jupyter Notebook](https://jupyter.org/install)
