@@ -64,5 +64,4 @@ Este repositório é disponibilizado sob a licença MIT. Sinta-se livre para uti
 ✍️ Medium: https://medium.com/@ozsp12  
 𝕏  X (Twitter): https://x.com/ozsp12  
 📱 TikTok: https://www.tiktok.com/@ozsp12  
-📸 Instagram: https://www.instagram.com/ozsp12/  
 ▶️ YouTube: https://www.youtube.com/@ozlsp12  
