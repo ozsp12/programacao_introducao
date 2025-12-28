@@ -13,18 +13,31 @@ Este curso tem como foco:
 
 Introdução à linguagem Python e à sua sintaxe básica, abrangendo operadores aritméticos e lógicos, regras de precedência, tipos de dados primitivos e conversões entre tipos. Estudo das estruturas condicionais if, elif e else, seguido da análise dos laços de repetição for e while e dos mecanismos de controle de fluxo com break e continue. Definição e uso de funções, incluindo parâmetros, valores de retorno e escopo de variáveis, com aprofundamento em recursão, funções anônimas (lambda) e funções aninhadas com closures. Manipulação de estruturas de dados fundamentais, com ênfase em listas, iteração e cálculos sobre coleções, além do uso de dicionários como estruturas chave-valor. O conteúdo é continuamente reforçado por exercícios práticos voltados à consolidação do raciocínio lógico e da escrita correta de algoritmos. Como bônus, o curso ainda ensina bibliotecas notórias de Python, como Pandas, Numpy e scikit-learn. Tópicos de análise de dados serão abordados.
 
-* **01_intro_sintaxe_python.ipynb**: introdução à linguagem Python, apresentando a sintaxe básica, a estrutura de comandos, os comentários, a indentação e os primeiros exemplos de execução de código.
-* **02_intro_logica_operacoes_matematicas.ipynb**: fundamentos de lógica de programação em Python, incluindo operadores aritméticos, precedência de operações e expressões matemáticas simples.
-* **03_tipos_variaveis.ipynb**: apresentação dos principais tipos de dados em Python, como inteiros, floats, strings e booleanos, com exemplos de conversão e uso prático.
-* **04_condicionais_if_else.ipynb**: estruturas condicionais em Python, abordando if, elif e else, operadores relacionais e lógicos e controle de fluxo baseado em condições.
-* **05_loops_for_while.ipynb**: laços de repetição for e while, com exemplos de iteração, controle de loops, uso de break e continue e aplicações típicas.
-* **06_funcoes.ipynb**: definição e uso de funções em Python, incluindo parâmetros, valores de retorno, escopo de variáveis e boas práticas de modularização.
-* **07_recursao.ipynb**: conceitos de recursão, definição de funções recursivas, condições de parada e comparação com abordagens iterativas.
-* **08_python_lambdas.ipynb**: funções anônimas em Python, uso de expressões lambda, aplicações comuns e integração com funções como map, filter e reduce.
-* **09_funcoes_aninhadas.ipynb**: funções definidas dentro de outras funções, escopo léxico, closures e exemplos de uso em estruturas mais avançadas.
-* **10_exercitando.ipynb**: conjunto de exercícios práticos para consolidar os conceitos apresentados, estimulando o raciocínio lógico e a prática de programação.
-* **11_listas_calculos_com_termos.ipynb**: manipulação de listas em Python, incluindo operações básicas, iteração, cálculos com termos e exemplos aplicados.
-* **12_dicionarios.ipynb**: introdução aos dicionários em Python, abordando estrutura chave-valor, operações fundamentais, iteração e casos de uso comuns.
+* **01_intro_sintaxe_python.ipynb**
+  - introdução à linguagem Python, apresentando a sintaxe básica, a estrutura de comandos, os comentários, a indentação e os primeiros exemplos de execução de código.
+* **02_intro_logica_operacoes_matematicas.ipynb**
+  - fundamentos de lógica de programação em Python, incluindo operadores aritméticos, precedência de operações e expressões matemáticas simples.
+* **03_tipos_variaveis.ipynb**
+  - apresentação dos principais tipos de dados em Python, como inteiros, floats, strings e booleanos, com exemplos de conversão e uso prático.
+* **04_condicionais_if_else.ipynb**
+  - estruturas condicionais em Python, abordando if, elif e else, operadores relacionais e lógicos e controle de fluxo baseado em condições.
+* **05_loops_for_while.ipynb**
+  - laços de repetição for e while, com exemplos de iteração, controle de loops, uso de break e continue e aplicações típicas.
+* **06_funcoes.ipynb**
+  - definição e uso de funções em Python, incluindo parâmetros, valores de retorno, escopo de variáveis e boas práticas de modularização.
+* **07_recursao.ipynb**
+  - conceitos de recursão, definição de funções recursivas, condições de parada e comparação com abordagens iterativas.
+* **08_python_lambdas.ipynb**
+  - funções anônimas em Python, uso de expressões lambda, aplicações comuns e integração com funções como map, filter e reduce.
+* **09_funcoes_aninhadas.ipynb**
+  - funções definidas dentro de outras funções, escopo léxico, closures e exemplos de uso em estruturas mais avançadas.
+* **10_exercitando.ipynb**
+  - conjunto de exercícios práticos para consolidar os conceitos apresentados, estimulando o raciocínio lógico e a prática de programação.
+* **11_listas_calculos_com_termos.ipynb**
+  - manipulação de listas em Python, incluindo operações básicas, iteração, cálculos com termos e exemplos aplicados.
+* **12_dicionarios.ipynb**
+  - introdução aos dicionários em Python, abordando estrutura chave-valor, operações fundamentais, iteração e casos de uso comuns.
+
 
 # Bibliografia
 
