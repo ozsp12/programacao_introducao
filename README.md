@@ -67,6 +67,7 @@ Introdução à linguagem Python e à sua sintaxe básica, abrangendo operadores
 - MIT OCW Introduction to Computer Science and Programming in Python: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 - MIT OCW Introduction to Mathematical Programming: https://ocw.mit.edu/courses/6-251j-introduction-to-mathematical-programming-fall-2009/
 - Unicamp MC 102 Algoritmos e Programação de Computadores: https://ic.unicamp.br/~mc102/
+- Introdução à Computação do Prof. José Augusto: https://dcm.ffclrp.usp.br/~augusto/teaching.htm
 
 # Licença
 Este repositório é disponibilizado sob a licença MIT. Sinta-se à vontade para utilizar e modificar conforme necessário!
