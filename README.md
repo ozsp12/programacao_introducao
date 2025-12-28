@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do **Curso de Programação com Python**! Este repositório contém Jupyter Notebooks que abordam desde conceitos básicos até tópicos intermediários e até mesmo alguns mais avançados da linguagem Python. O objetivo é fornecer material de apoio tanto para iniciantes quanto para quem deseja reforçar seus conhecimentos em programação. O público-alvo deste curso é pessoas que não são da área de dados nem de computação, mas que desejam aprender a programar para criar suas próprias rotinas de automação, mesmo que seja com o auxílio de IA generativa.
 
+* Aula 01 no YouTube: https://www.youtube.com/watch?v=oclZGqDb9R0
+
 # Objetivo do Curso
 Este curso tem como foco:
 - Introduzir a linguagem Python de forma prática e objetiva.
@@ -13,6 +15,15 @@ Este curso tem como foco:
 
 Introdução à linguagem Python e à sua sintaxe básica, abrangendo operadores aritméticos e lógicos, regras de precedência, tipos de dados primitivos e conversões entre tipos. Estudo das estruturas condicionais if, elif e else, seguido da análise dos laços de repetição for e while e dos mecanismos de controle de fluxo com break e continue. Definição e uso de funções, incluindo parâmetros, valores de retorno e escopo de variáveis, com aprofundamento em recursão, funções anônimas (lambda) e funções aninhadas com closures. Manipulação de estruturas de dados fundamentais, com ênfase em listas, iteração e cálculos sobre coleções, além do uso de dicionários como estruturas chave-valor. O conteúdo é continuamente reforçado por exercícios práticos voltados à consolidação do raciocínio lógico e da escrita correta de algoritmos. Como bônus, o curso ainda ensina bibliotecas notórias de Python, como Pandas, Numpy e scikit-learn. Tópicos de análise de dados serão abordados.
 
+# Organização do repo
+* **aulas_algoritmo_programacao**
+  - Pasta que contém os notebooks Jupyter com as aulas de cada tópico do curso
+* **algoritmos_que_educam**
+  - Pasta que contém os notebooks Jupyter com as aulas de exercícios resolvidos do curso
+* **data_citizen**
+  - Pasta que contém os notebooks Jupyter e materiais com as aulas voltadas para os cidadãos dos dados
+
+# Pasta **aulas_algoritmo_programacao**
 * **01_intro_sintaxe_python.ipynb**
   - introdução à linguagem Python, apresentando a sintaxe básica, a estrutura de comandos, os comentários, a indentação e os primeiros exemplos de execução de código.
 * **02_intro_logica_operacoes_matematicas.ipynb**
@@ -56,9 +67,6 @@ Introdução à linguagem Python e à sua sintaxe básica, abrangendo operadores
 - MIT OCW Introduction to Computer Science and Programming in Python: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 - MIT OCW Introduction to Mathematical Programming: https://ocw.mit.edu/courses/6-251j-introduction-to-mathematical-programming-fall-2009/
 - Unicamp MC 102 Algoritmos e Programação de Computadores: https://ic.unicamp.br/~mc102/
-
-# Links das aulas no YouTube
-* Aula 01: https://www.youtube.com/watch?v=oclZGqDb9R0
 
 # Licença
 Este repositório é disponibilizado sob a licença MIT. Sinta-se à vontade para utilizar e modificar conforme necessário!
