@@ -11,7 +11,7 @@ Este curso tem como foco:
 
 # Ementa do curso
 
-Introdução à linguagem Python e à sua sintaxe básica, abrangendo operadores aritméticos e lógicos, regras de precedência, tipos de dados primitivos e conversões entre tipos. Estudo das estruturas condicionais if, elif e else, seguido da análise dos laços de repetição for e while e dos mecanismos de controle de fluxo com break e continue. Definição e uso de funções, incluindo parâmetros, valores de retorno e escopo de variáveis, com aprofundamento em recursão, funções anônimas (lambda) e funções aninhadas com closures. Manipulação de estruturas de dados fundamentais, com ênfase em listas, iteração e cálculos sobre coleções, além do uso de dicionários como estruturas chave-valor. O conteúdo é continuamente reforçado por exercícios práticos voltados à consolidação do raciocínio lógico e da escrita correta de algoritmos. Como bônus, o curso ainda ensina bibliotecas notórias de Python, como Pandas, Numpy e scikit-learn. Tópicos em análises de dados serão abordados.
+Introdução à linguagem Python e à sua sintaxe básica, abrangendo operadores aritméticos e lógicos, regras de precedência, tipos de dados primitivos e conversões entre tipos. Estudo das estruturas condicionais if, elif e else, seguido da análise dos laços de repetição for e while e dos mecanismos de controle de fluxo com break e continue. Definição e uso de funções, incluindo parâmetros, valores de retorno e escopo de variáveis, com aprofundamento em recursão, funções anônimas (lambda) e funções aninhadas com closures. Manipulação de estruturas de dados fundamentais, com ênfase em listas, iteração e cálculos sobre coleções, além do uso de dicionários como estruturas chave-valor. O conteúdo é continuamente reforçado por exercícios práticos voltados à consolidação do raciocínio lógico e da escrita correta de algoritmos. Como bônus, o curso ainda ensina bibliotecas notórias de Python, como Pandas, Numpy e scikit-learn. Tópicos de análise de dados serão abordados.
 
 * **01_intro_sintaxe_python.ipynb**: introdução à linguagem Python, apresentando a sintaxe básica, a estrutura de comandos, os comentários, a indentação e os primeiros exemplos de execução de código.
 * **02_intro_logica_operacoes_matematicas.ipynb**: fundamentos de lógica de programação em Python, incluindo operadores aritméticos, precedência de operações e expressões matemáticas simples.
@@ -35,9 +35,16 @@ Introdução à linguagem Python e à sua sintaxe básica, abrangendo operadores
 - Guttag, J. V. *Introduction to Computation and Programming Using Python*. MIT Press.  
 - Kernighan, B. W., Pike, R. *The Practice of Programming*. Addison-Wesley.  
 - Documentação oficial do Python. https://docs.python.org/3/
+- Knuth, D. E. *The Art of Computer Programming, Volume 1: Fundamental Algorithms*. Addison-Wesley.  
+- Knuth, D. E. *The Art of Computer Programming, Volume 2: Seminumerical Algorithms*. Addison-Wesley.  
+- Knuth, D. E. *The Art of Computer Programming, Volume 3: Sorting and Searching*. Addison-Wesley.
+- Curso de Python da W3Schools: https://www.w3schools.com/python/default.asp
+- MIT OCW A Gentle Introduction to Programming Using Python: https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
+- MIT OCW Introduction to Computer Science and Programming in Python: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+- MIT OCW Introduction to Mathematical Programming: https://ocw.mit.edu/courses/6-251j-introduction-to-mathematical-programming-fall-2009/
+- Unicamp MC 102 Algoritmos e Programação de Computadores: https://ic.unicamp.br/~mc102/
 
 # Links das aulas no YouTube
-
 * Aula 01: https://www.youtube.com/watch?v=oclZGqDb9R0
 
 # Licença
