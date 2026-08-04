@@ -4,7 +4,7 @@ Material didático para pessoas sem formação prévia em computação. O curso 
 
 O objetivo é desenvolver raciocínio algorítmico, leitura de código e autonomia para construir pequenos programas.
 
-## Conteúdo
+# Conteúdo
 
 O percurso principal está em [`aulas_algoritmos_programacao/`](aulas_algoritmos_programacao/):
 
@@ -23,20 +23,18 @@ O percurso principal está em [`aulas_algoritmos_programacao/`](aulas_algoritmos
 
 O catálogo detalhado está em [CONTENTS.md](CONTENTS.md). A sequência pedagógica recomendada está em [COURSE.md](COURSE.md).
 
-## Videoaula
+# Videoaulas no YouTube
 
-### Aula 01 — Python do zero para análise de dados: variáveis, lógica e primeiros códigos
-
-[Assistir no YouTube](https://youtu.be/oclZGqDb9R0)
+* [Aula 01 — Python do zero para análise de dados: variáveis, lógica e primeiros códigos](https://youtu.be/oclZGqDb9R0)
 
 Material relacionado: [`01_intro_sintaxe_python.ipynb`](aulas_algoritmos_programacao/01_intro_sintaxe_python.ipynb).
 
-## Referências
+# Referências
 
 - [REFERENCES.md](REFERENCES.md) — bibliografia;
 - [CITATION.cff](CITATION.cff) — metadados para citação;
 - [LICENSE](LICENSE) — licença MIT.
 
-## Autor
+# Autor
 
-**Dr. Osvaldo L. Santos-Pereira** — [Webpage](https://ozsp12.github.io/) · [Lattes](http://lattes.cnpq.br/6730251976463283) · [ORCID](https://orcid.org/0000-0003-2231-517X) · [GitHub](https://github.com/ozsp12) · [YouTube](https://www.youtube.com/@ozlsp12)
+**Dr. Osvaldo L. Santos-Pereira** — [Academic webpage](https://ozsp12.github.io/) · [Lattes](http://lattes.cnpq.br/6730251976463283) · [ORCID](https://orcid.org/0000-0003-2231-517X) · [Google Scholar](https://scholar.google.com/citations?user=HIZp0X8AAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Osvaldo-Santos-Pereira) · [GitHub](https://github.com/ozsp12) · [LinkedIn](https://www.linkedin.com/in/ozsp12) · [Substack](https://substack.com/@olsp1982) · [Medium](https://medium.com/@ozsp12) · [YouTube](https://www.youtube.com/@ozlsp12) · [X](https://x.com/ozsp12)
