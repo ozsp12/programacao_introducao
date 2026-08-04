@@ -1,64 +1,35 @@
 # Introdução à Programação com Python
 
-Material didático para pessoas sem formação prévia em computação. O curso apresenta os fundamentos da programação com Python por meio de notebooks executáveis, exercícios e videoaulas.
+Material didático para pessoas sem formação prévia em computação. O curso apresenta fundamentos de programação com Python por meio de notebooks executáveis, exercícios e videoaulas.
 
-O objetivo é desenvolver raciocínio algorítmico, leitura de código e autonomia para construir pequenos programas. Estatística, análise de dados, inteligência artificial e coleções de algoritmos foram separados em repositórios próprios para preservar o foco deste curso.
+O objetivo é desenvolver raciocínio algorítmico, leitura de código e autonomia para construir pequenos programas.
 
 ## Conteúdo
 
 O percurso principal está em [`aulas_algoritmos_programacao/`](aulas_algoritmos_programacao/):
 
-1. sintaxe e primeiros comandos;
-2. lógica e operações matemáticas;
-3. tipos e variáveis;
-4. estruturas condicionais;
-5. laços `for` e `while`;
-6. funções;
-7. recursão;
-8. funções lambda;
-9. funções aninhadas e *closures*;
-10. exercícios integradores;
-11. cálculos com listas;
-12. dicionários.
+1. [`01_intro_sintaxe_python.ipynb`](aulas_algoritmos_programacao/01_intro_sintaxe_python.ipynb) — sintaxe, expressões e primeiros comandos;
+2. [`02_intro_logica_operacoes_matematicas.ipynb`](aulas_algoritmos_programacao/02_intro_logica_operacoes_matematicas.ipynb) — operadores, precedência e lógica;
+3. [`03_tipos_variaveis.ipynb`](aulas_algoritmos_programacao/03_tipos_variaveis.ipynb) — tipos de dados e variáveis;
+4. [`04_condicionais_if_else.ipynb`](aulas_algoritmos_programacao/04_condicionais_if_else.ipynb) — estruturas condicionais;
+5. [`05_loops_for_while.ipynb`](aulas_algoritmos_programacao/05_loops_for_while.ipynb) — laços `for` e `while`;
+6. [`06_funcoes.ipynb`](aulas_algoritmos_programacao/06_funcoes.ipynb) — funções, parâmetros, retorno e escopo;
+7. [`07_recursao.ipynb`](aulas_algoritmos_programacao/07_recursao.ipynb) — recursão e casos-base;
+8. [`08_python_lambdas.ipynb`](aulas_algoritmos_programacao/08_python_lambdas.ipynb) — funções lambda;
+9. [`09_funcoes_aninhadas.ipynb`](aulas_algoritmos_programacao/09_funcoes_aninhadas.ipynb) — funções aninhadas e *closures*;
+10. [`10_exercitando.ipynb`](aulas_algoritmos_programacao/10_exercitando.ipynb) — exercícios integradores;
+11. [`11_listas_calculos_com_termos.ipynb`](aulas_algoritmos_programacao/11_listas_calculos_com_termos.ipynb) — listas e cálculos sobre coleções;
+12. [`12_dicionarios.ipynb`](aulas_algoritmos_programacao/12_dicionarios.ipynb) — dicionários e estruturas chave–valor.
 
-O catálogo detalhado está em [CONTENTS.md](CONTENTS.md). A sequência pedagógica recomendada e as melhorias planejadas estão em [COURSE.md](COURSE.md).
+O catálogo detalhado está em [CONTENTS.md](CONTENTS.md). A sequência pedagógica recomendada está em [COURSE.md](COURSE.md).
 
-## Videoaulas publicadas
+## Videoaula
 
-| Vídeo | Link | Material relacionado |
-|---:|---|---|
-| 1 | [YouTube](https://www.youtube.com/watch?v=oaKXsIK8768) | A relacionar |
-| 2 | [YouTube](https://www.youtube.com/watch?v=dLDmXewxwpA) | A relacionar |
-| 3 | [YouTube](https://www.youtube.com/watch?v=Vn45DCpdXNw) | A relacionar |
-| 4 | [Introdução à programação com Python](https://www.youtube.com/watch?v=oclZGqDb9R0) | [`01_intro_sintaxe_python.ipynb`](aulas_algoritmos_programacao/01_intro_sintaxe_python.ipynb) |
-| 5 | [YouTube](https://www.youtube.com/watch?v=Etwy8F1cmzA) | A relacionar |
+### Aula 01 — Python do zero para análise de dados: variáveis, lógica e primeiros códigos
 
-A lista contém apenas vídeos distintos; o endereço da aula introdutória havia sido informado duas vezes.
+[Assistir no YouTube](https://youtu.be/oclZGqDb9R0)
 
-## Como executar
-
-```bash
-conda env create -f requirements.yml
-conda activate programacao-introducao
-jupyter lab
-```
-
-Os notebooks devem ser executados na ordem das células. Exemplos que produzem erros deliberados são usados para discutir exceções e devem estar identificados no próprio material.
-
-## Verificação
-
-```bash
-python -m unittest discover -s tests -v
-```
-
-Os testes atuais verificam a integridade estrutural dos notebooks. A execução automatizada completa ainda é uma melhoria planejada.
-
-## Repositórios relacionados
-
-- [`stats_elementary`](https://github.com/ozsp12/stats_elementary) — estatística elementar;
-- [`algoritmos_educam`](https://github.com/ozsp12/algoritmos_educam) — problemas e algoritmos comentados;
-- [`ai_data_citizen`](https://github.com/ozsp12/ai_data_citizen) — alfabetização em dados e inteligência artificial;
-- [`data_analytics_excel`](https://github.com/ozsp12/data_analytics_excel) — análise de dados aplicada com Excel.
+Material relacionado: [`01_intro_sintaxe_python.ipynb`](aulas_algoritmos_programacao/01_intro_sintaxe_python.ipynb).
 
 ## Referências
 
