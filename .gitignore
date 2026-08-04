@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.jupyter/
+.venv/
+venv/
+env/
+.DS_Store
+Thumbs.db
+*.html
+*.gif
+*.mp4

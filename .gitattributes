@@ -1,0 +1,5 @@
+*.ipynb text eol=lf
+*.csv text eol=lf
+*.parquet binary
+*.pbix binary
+*.pdf binary
