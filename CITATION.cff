@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this teaching material, cite this repository."
+title: "Introdução à Programação com Python"
+type: software
+authors:
+  - family-names: Santos-Pereira
+    given-names: Osvaldo L.
+    orcid: "https://orcid.org/0000-0003-2231-517X"
+repository-code: "https://github.com/ozsp12/programacao_introducao"
+url: "https://github.com/ozsp12/programacao_introducao"
+license: MIT
