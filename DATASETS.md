@@ -1,22 +1,22 @@
-# Conjuntos de dados
+# Datasets
 
-Os arquivos são mantidos próximos aos notebooks que os consomem. Os notebooks usam caminhos relativos; execute-os a partir do respectivo diretório.
+Files are kept close to the notebooks that consume them. The notebooks use relative paths; run them from their respective directories.
 
-| Caminho | Uso | Observação |
+| Path | Use | Notes |
 |---|---|---|
-| `introducao_estatistica/dataset_instrucional.csv` | Exemplos didáticos de estatística | Conjunto instrucional pequeno |
-| `introducao_estatistica/carteira_medicina_familia_sintetica.csv` | Estudos de estatística aplicada | Dados declarados como sintéticos pelo nome do arquivo; não tratar como prontuário real |
-| `introducao_estatistica/UCI_Credit_Card.csv` | Classificação de inadimplência | Derivado de *Default of Credit Card Clients*, UCI ML Repository, DOI: [10.24432/C55S3H](https://doi.org/10.24432/C55S3H), licença CC BY 4.0 |
-| `introducao_estatistica/UCI_Cartao_Credito.csv` | Versão transformada para as aulas | Saída derivada do conjunto UCI; preservar a atribuição original |
-| `introducao_estatistica/df_paradoxo_simpson.csv` | Demonstração do paradoxo de Simpson | Material didático |
-| `introducao_estatistica/tabela_exercicio_simpson.csv` | Exercício sobre agregação | Material didático |
-| `data_citizen/analise_dados_com_duckdb/*.csv` | Eventos, assinaturas e vídeos | Dados instrucionais usados nas consultas DuckDB |
-| `data_citizen/fast_track/df_fast_track.csv` | Análise e visualização | Arquivo grande; carregar apenas as colunas necessárias quando possível |
-| `data_citizen/fast_track/df_fast_track.parquet` | Versão colunar do *fast track* | Requer `pyarrow`; mais eficiente que CSV para leitura seletiva |
-| `data_citizen/fast_track/fast_track.pbix` | Relatório Power BI | Formato binário proprietário; requer Power BI Desktop para edição |
+| `introducao_estatistica/dataset_instrucional.csv` | Instructional statistics examples | Small instructional dataset |
+| `introducao_estatistica/carteira_medicina_familia_sintetica.csv` | Applied statistics studies | Data declared synthetic by the filename; do not treat as real medical records |
+| `introducao_estatistica/UCI_Credit_Card.csv` | Default classification | Derived from *Default of Credit Card Clients*, UCI ML Repository, DOI: [10.24432/C55S3H](https://doi.org/10.24432/C55S3H), CC BY 4.0 |
+| `introducao_estatistica/UCI_Cartao_Credito.csv` | Transformed version for lessons | Derived output from the UCI dataset; preserve the original attribution |
+| `introducao_estatistica/df_paradoxo_simpson.csv` | Simpson's paradox demonstration | Teaching material |
+| `introducao_estatistica/tabela_exercicio_simpson.csv` | Aggregation exercise | Teaching material |
+| `data_citizen/analise_dados_com_duckdb/*.csv` | Events, subscriptions, and videos | Instructional data used in DuckDB queries |
+| `data_citizen/fast_track/df_fast_track.csv` | Analysis and visualization | Large file; load only the required columns when possible |
+| `data_citizen/fast_track/df_fast_track.parquet` | Columnar version of *fast track* | Requires `pyarrow`; more efficient than CSV for selective reads |
+| `data_citizen/fast_track/fast_track.pbix` | Power BI report | Proprietary binary format; requires Power BI Desktop for editing |
 
-## Limitações
+## Limitations
 
-- O repositório não documentava originalmente a origem de todos os arquivos instrucionais. Não se deve presumir licença aberta para dados sem proveniência explícita.
-- O arquivo sintético de medicina da família é grande. Operações que carregam todas as colunas podem exigir memória considerável.
-- Não inclua dados pessoais, credenciais ou dados clínicos reais em exercícios derivados deste material.
+- The repository did not originally document the provenance of all instructional files. Do not assume an open license for data without explicit provenance.
+- The synthetic family-medicine file is large. Operations that load all columns may require substantial memory.
+- Do not include personal data, credentials, or real clinical data in exercises derived from this material.
