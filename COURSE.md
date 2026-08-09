@@ -1,68 +1,68 @@
-# Organização pedagógica do curso
+# Course Pedagogical Organization
 
-## Público-alvo
+## Target Audience
 
-Pessoas sem formação prévia em computação que desejam compreender os fundamentos da programação e construir pequenos programas em Python.
+People with no prior background in computing who want to understand programming fundamentals and build small Python programs.
 
-## Resultados de aprendizagem
+## Learning Outcomes
 
-Ao concluir o percurso principal, o estudante deverá ser capaz de:
+After completing the main learning path, students should be able to:
 
-- executar e modificar programas simples em Python;
-- usar variáveis, operadores e tipos de dados;
-- construir decisões e repetições;
-- manipular listas e dicionários;
-- definir e testar funções;
-- decompor problemas em etapas algorítmicas;
-- interpretar mensagens de erro básicas.
+- run and modify simple Python programs;
+- use variables, operators, and data types;
+- build conditional logic and loops;
+- manipulate lists and dictionaries;
+- define and test functions;
+- decompose problems into algorithmic steps;
+- interpret basic error messages.
 
-## Sequência recomendada
+## Recommended Sequence
 
-A ordem atual dos arquivos é preservada para evitar quebra de links. Para novas versões das aulas, recomenda-se a seguinte progressão:
+The current file order is preserved to avoid breaking links. For new lesson versions, the following progression is recommended:
 
-1. sintaxe, execução e função `print`;
-2. valores, variáveis e tipos;
-3. operadores aritméticos, relacionais e booleanos;
+1. syntax, execution, and the `print` function;
+2. values, variables, and types;
+3. arithmetic, relational, and Boolean operators;
 4. strings;
-5. listas e tuplas;
-6. condicionais;
-7. laços de repetição;
-8. dicionários e conjuntos;
-9. funções, parâmetros, retorno e escopo;
-10. exceções, arquivos e módulos;
-11. exercícios integradores;
-12. projeto final.
+5. lists and tuples;
+6. conditional structures;
+7. loops;
+8. dictionaries and sets;
+9. functions, parameters, return values, and scope;
+10. exceptions, files, and modules;
+11. integrative exercises;
+12. final project.
 
-Recursão, funções lambda e *closures* devem ser tratadas como tópicos intermediários, após o núcleo obrigatório.
+Recursion, lambda functions, and *closures* should be treated as intermediate topics after the core curriculum.
 
-## Estrutura recomendada para cada aula
+## Recommended Structure for Each Lesson
 
-Cada notebook deve conter:
+Each notebook should contain:
 
-1. título e objetivos de aprendizagem;
-2. pré-requisitos;
-3. explicação conceitual breve;
-4. exemplos executáveis;
-5. erros comuns;
-6. exercícios;
-7. síntese;
-8. referências e videoaula correspondente.
+1. title and learning objectives;
+2. prerequisites;
+3. brief conceptual explanation;
+4. executable examples;
+5. common errors;
+6. exercises;
+7. summary;
+8. references and corresponding video lesson.
 
-## Critérios de qualidade
+## Quality Criteria
 
-- usar Python padrão nas primeiras aulas;
-- introduzir bibliotecas somente quando necessárias;
-- distinguir comentários, strings e *docstrings* corretamente;
-- evitar caminhos absolutos e dependência do computador do autor;
-- identificar explicitamente células que produzem erros deliberados;
-- manter exemplos curtos, executáveis e progressivos;
-- separar exposição, exercícios e soluções quando o volume justificar.
+- use standard Python in the first lessons;
+- introduce libraries only when necessary;
+- distinguish comments, strings, and *docstrings* correctly;
+- avoid absolute paths and dependence on the author's computer;
+- explicitly identify cells that intentionally raise errors;
+- keep examples short, executable, and progressive;
+- separate exposition, exercises, and solutions when the volume justifies it.
 
-## Melhorias futuras
+## Future Improvements
 
-- revisar a ordem dos notebooks sem quebrar os links existentes;
-- criar exercícios e soluções separados;
-- adicionar uma aula sobre arquivos e exceções;
-- adicionar um projeto final;
-- executar notebooks automaticamente em integração contínua;
-- relacionar cada videoaula ao notebook correspondente.
+- revise the notebook order without breaking existing links;
+- create separate exercises and solutions;
+- add a lesson on files and exceptions;
+- add a final project;
+- execute notebooks automatically in continuous integration;
+- link each video lesson to its corresponding notebook.
