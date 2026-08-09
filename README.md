@@ -27,8 +27,6 @@ O catálogo detalhado está em [CONTENTS.md](CONTENTS.md). A sequência pedagóg
 
 * [Aula 01 — Python do zero para análise de dados: variáveis, lógica e primeiros códigos](https://youtu.be/oclZGqDb9R0)
 
-Material relacionado: [`01_intro_sintaxe_python.ipynb`](aulas_algoritmos_programacao/01_intro_sintaxe_python.ipynb).
-
 # Referências
 
 - [REFERENCES.md](REFERENCES.md) — bibliografia;
